@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuites time="23.767" tests="5" failures="0" errors="0" skipped="0">
+  <testsuite name="01_template - describe your test" timestamp="2025-01-07T23:21:46" time="23.767" tests="5" failures="0" errors="0" skipped="0">
+    <testcase name="Step 01: Navigation to ERX URL" time="3.043" classname="01_template - describe your test" status="passed"/>
+    <testcase name="Step 02: Press Go to View All" time="9.796" classname="01_template - describe your test" status="passed"/>
+    <testcase name="Step 03: Add a Filter" time="8.526" classname="01_template - describe your test" status="passed"/>
+    <testcase name="Step 04: Confirm Accurate Number of Trades" time="0.136" classname="01_template - describe your test" status="passed"/>
+    <testcase name="Step 05: Logout" time="2.266" classname="01_template - describe your test" status="passed"/>
+    <properties>
+      <property name="capabilities" value="chrome.131_0_6778_205.mac"/>
+      <property name="file" value="/Users/I758386/Library/CloudStorage/OneDrive-SAPSE/Demos/ERX TCP QMate Demo/specs/01_template.spec.js"/>
+      <property name="suiteName" value="01_template - describe your test"/>
+    </properties>
+  </testsuite>
+</testsuites>
